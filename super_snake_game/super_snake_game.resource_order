@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Fonts","order":3,"path":"folders/Fonts.yy",},
+    {"name":"Objects","order":5,"path":"folders/Objects.yy",},
+    {"name":"controller_fases","order":3,"path":"folders/Objects/controller_fases.yy",},
+    {"name":"Entity","order":4,"path":"folders/Objects/Entity.yy",},
+    {"name":"Room","order":1,"path":"folders/Room.yy",},
+    {"name":"Script","order":2,"path":"folders/Script.yy",},
+    {"name":"Sprites","order":6,"path":"folders/Sprites.yy",},
+    {"name":"TileSet","order":4,"path":"folders/TileSet.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_Apple","order":2,"path":"objects/obj_Apple/obj_Apple.yy",},
+    {"name":"obj_col","order":1,"path":"objects/obj_col/obj_col.yy",},
+    {"name":"scr_controller","order":1,"path":"scripts/scr_controller/scr_controller.yy",},
+    {"name":"spr_Apple","order":2,"path":"sprites/spr_Apple/spr_Apple.yy",},
+    {"name":"spr_col","order":1,"path":"sprites/spr_col/spr_col.yy",},
+  ],
+}
