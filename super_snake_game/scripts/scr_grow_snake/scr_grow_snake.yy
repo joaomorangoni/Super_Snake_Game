@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_controller",
+  "%Name":"scr_grow_snake",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_controller",
+  "name":"scr_grow_snake",
   "parent":{
     "name":"Script",
     "path":"folders/Script.yy",
